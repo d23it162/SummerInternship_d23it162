@@ -6,4 +6,6 @@ day 19:  - Today , I used the Elementor plugin to redesign our homepage. By leve
          optimized images, and incorporated feedback forms, significantly enhancing the site's functionality and visual appeal. This project improved our user engagement and overall site performance.
 
 day 20: - weekend 
+
+day 21: - weekend 
          
