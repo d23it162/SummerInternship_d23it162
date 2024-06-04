@@ -11,3 +11,4 @@ day 21: - weekend
 
 day 22: - I secured a WordPress site by installing Wordfence Security for firewall and malware protection, and iThemes            Security for strengthening user credentials and preventing brute force attacks, ensuring comprehensive protection.
          
+day 21: - Today, I worked on securing a WordPress site using the iThemes Security plugin. I configured two-factor                 authentication, Implemented brute force attack prevention measures.
