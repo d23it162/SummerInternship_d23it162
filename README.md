@@ -24,6 +24,8 @@ day 27: - weekend
 
 day 28: - weekend 
 
-day 29: - Today, I encountered an issue with the Wordfence Security plugin where the firewall settings were blocking legitimate traffic. I worked on adjusting the configurations to ensure proper access while maintaining site security.
+day 29: - Today, I encountered an issue with the Wordfence Security plugin where the firewall settings were blocking      
+legitimate traffic. I worked on adjusting the configurations to ensure proper access while maintaining site security.
 
 
+day 30: - Today, I spent six hours configuring the WP Cerber Security plugin. I enabled advanced spam protection, set up           IP blocking rules, and configured the traffic inspector, boosting the site's overall security and monitoring.
